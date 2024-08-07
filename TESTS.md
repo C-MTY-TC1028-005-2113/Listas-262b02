@@ -9,32 +9,26 @@
 sudo -H pip3 install pytest
 ```
 
-- ## 02 Contar Pares Impares
+- ## A01 Contar Pares Impares
     ### Run command
     ```
-    pytest assignments/02ContarParesImpares
+    pytest assignments/A01ContarParesImpares
     ```
 
-- ## 06 Sublistas Pares Impares
+- ## A02 Pares y Posición
     ### Run command
     ```
-    pytest assignments/06SublistasParesImpares
+    pytest assignments/A02ParesYPosicion
     ```
 
-- ## 07 Pares y Posición
+- ## A03 Listas Sin Duplicados
     ### Run command
     ```
-    pytest assignments/07ParesYPosicion
+    pytest assignments/A03SinDuplicados
     ```
 
-- ## 08 Listas Sin Duplicados
+- ## A04 Serie Fibonacci Listas
     ### Run command
     ```
-    pytest assignments/08SinDuplicados
-    ```
-
-- ## 09 Serie Fibonacci Listas
-    ### Run command
-    ```
-    pytest assignments/09SerieFibonacciListas
+    pytest assignments/A04SerieFibonacciListas
     ```
